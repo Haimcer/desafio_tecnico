@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Uso da Função somatorioDivisiveis em Dart</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      max-width: 800px;
-      margin: 20px auto;
-    }
-
-    code {
-      background-color: #f0f0f0;
-      padding: 2px 5px;
-      border-radius: 3px;
-    }
-
-    pre {
-      background-color: #f0f0f0;
-      padding: 10px;
-      overflow-x: auto;
-    }
-  </style>
 </head>
 <body>
 
