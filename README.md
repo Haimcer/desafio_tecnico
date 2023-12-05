@@ -14,11 +14,11 @@
     <li>
       <p><strong>Clone este repositório:</strong></p>
       <pre>git clone https://github.com/Haimcer/desafio_tecnico.git
-cd desafio_tecnico</pre>
+</pre>
     </li>
     <li>
       <p><strong>Abra o arquivo Dart:</strong></p>
-      <pre>dart/desafioTecnico.dart</pre>
+      <pre>desafioTecnico.dart</pre>
     </li>
     <li>
       <p><strong>Chame a função na função <code>main</code>:</strong></p>
